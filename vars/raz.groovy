@@ -1,3 +1,3 @@
-def printName(String name = 'hi'){
-     echo 'this is the name from libb: ${name}'
+def prinName(String name = 'hi') {
+    echo 'Hello, ${name} from second Shared Library!'
 }
